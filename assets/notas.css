@@ -1,0 +1,26 @@
+nagegacao__site.css;
+site__logo.css;
+site__pesquisa.css;
+site__paginas.css;
+nagegacao__perfil.css;
+perfil__botao.css;
+Cores {
+    Fundo: rgb(13, 17, 23);
+    Texto: rgb(240, 246, 252);
+    Texto-Hover: rgb(186, 187, 189);
+    Texto-cinza: rgb(194, 195, 197);
+    Faixa-laranja: rgb(218, 115, 92);
+    Achievements: rgb(19, 34, 57);
+    Achievements-borda: rgb(34, 78, 136);
+    Texto-azul: rgb(88, 166, 255);
+    Ano-fundo: rgb(31, 111, 235);
+    Bordas: rgb(48, 54, 61);
+}
+
+Tons de verde {
+    verde: rgb(22, 27, 34);
+    verde: rgb(14, 68, 41);
+    verde: rgb(0, 109, 50);
+    verde: rgb(38, 166, 65);
+    verde: rgb(57, 211, 83);
+}

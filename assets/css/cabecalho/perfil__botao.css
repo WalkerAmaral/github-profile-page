@@ -1,0 +1,22 @@
+.perfil__botao {
+    display: flex;
+}
+
+.perfil__botao-imagem {
+    width: 20px;
+    height: 20px;
+    background-image: url(../../img/avatar.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+}
+
+.perfil__botao-link {
+    display: flex;
+}
+
+.perfil__botao:hover * {
+    fill: rgb(186, 187, 189);
+    color: rgb(186, 187, 189);
+    border-top-color: rgb(186, 187, 189);
+}

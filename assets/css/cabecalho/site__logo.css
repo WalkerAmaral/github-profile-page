@@ -1,0 +1,7 @@
+.site__logo {
+    fill: rgb(240, 246, 252)
+}
+
+.site__logo:hover {
+    fill: rgb(186, 187, 189);
+}
