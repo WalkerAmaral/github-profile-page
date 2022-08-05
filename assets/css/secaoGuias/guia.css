@@ -1,0 +1,11 @@
+.guia {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin: 10px;
+    border-radius: 7px;
+}
+
+.guia:hover {
+    background-color: rgb(33, 38, 44)
+}

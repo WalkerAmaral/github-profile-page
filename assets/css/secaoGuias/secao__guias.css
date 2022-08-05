@@ -1,0 +1,8 @@
+.secao__guias {
+    padding: 60px 400px 0px;
+    border-bottom: thin solid rgb(236, 234, 230);
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.9rem;
+    font-weight: 300;
+}
